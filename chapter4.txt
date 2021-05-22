@@ -1,0 +1,1 @@
+New skills to be added Swift UI, Git (Version Control) and Unit Testing in iOS.
